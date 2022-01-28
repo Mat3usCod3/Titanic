@@ -6,22 +6,14 @@
 
 # Análise exploratória Titanic
 
-Realizamos neste projeto, uma análise simples dos dados do acidente ocorrido em 12 de abril de 1912, com o navio Titanic. Nesta base de dados, existem informações extremamente relevantes em relação ao número de mortos e sobreviventes.
+Realizamos neste projeto, uma análise simples dos dados do acidente ocorrido em 12 de abril de 1912, com o navio Titanic. Nesta base de dados, existem informações extremamente relevantes em relação às vítimas e sobreviventes do acidente.
 
 ## Autores
 
 - [@Mat3usCod3](https://github.com/Mat3usCod3)
 
 
-## Questões analisadas
-
-#### Quantidade de pessoas de ambos os sexos;
-
-
-#### Quantidade total de passageiros;
-
-
-+ Dados percentuais da população; 
+## Algumas Questões que foram analisadas:
 
 
 #### Quantiade de pessoas de ambos os sexos que sobreviveram;
@@ -30,17 +22,11 @@ Realizamos neste projeto, uma análise simples dos dados do acidente ocorrido em
 
 #### Tripulantes do sexo masculino que não sobreviveram;
 
-#### Tripulantes do sexo masculino que sobreviveram;
-
 #### Tripulantes do sexo feminino que não sobreviveram;
 
-#### Tripulantes do sexo feminino que sobreviveram;
-
-#### Ralação das idades dos passageiros;
-
-#### Dados percentuais em relação as classes 1, 2, e 3;
-
 #### Tarifa em relação as classes 1, 2, e 3; 
+
+
 
 ## Apêndice
 
