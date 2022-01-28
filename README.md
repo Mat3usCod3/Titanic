@@ -6,15 +6,14 @@
 
 # Análise exploratória Titanic
 
-Realizamos neste projeto, uma análise simples dos dados do acidente ocorrido em 12 de abril de 1912, com o navio Titanic. Nesta base de dados, existem informações extremamente relevantes em relação às vítimas e sobreviventes do acidente.
+Realizamos neste projeto, uma análise simples dos dados do acidente ocorrido em 12 de abril de 1912, com o navio Titanic. Nesta base de dados, existem informações extremamente relevantes com relação às vítimas e sobreviventes do acidente.
 
 ## Autores
 
 - [@Mat3usCod3](https://github.com/Mat3usCod3)
 
 
-## Algumas Questões que foram analisadas:
-
+## Alguns tópicos que foram analisados:
 
 #### Quantiade de pessoas de ambos os sexos que sobreviveram;
 
@@ -42,22 +41,6 @@ import matplotlib as plt
 import matplotlib.pyplot as plt
 import math as mt
 import statistics as st
-
-# Data frame;
-data = pd.read_csv('titanic.csv')
-data.head(4)
-
-```
-
-
-## Instalação 
-
-Instalação de algumas bibliotecas importantes:
-
-```bash
-  conda install pandas
-  conda install -c anaconda numpy
-  conda install -c conda-forge matplotlib
 ```
     
 ## Recursos utilizados
@@ -71,12 +54,7 @@ Instalação de algumas bibliotecas importantes:
 Exemplo de gráfico piechart utilizado no projeto:
 
 ![teste](https://github.com/Mat3usCod3/Titanic/blob/main/g.png?raw=true)
+
 ## Feedback
 
-Estamos disponíveis para receber qualquer tipo de sugestão e Feedback, por favor entre em contato por meio do seguinte e-mail: mateusmenezes1997@gmail.com
-
-
-## Suporte
-
-Para suporte, ou qualquer dúvida entre em contato atravéz do seguinte e-mail: mateusmenezes1997@gmail.com
-
+Estamos disponíveis para receber qualquer tipo de sugestão e Feedback. Entre em contato conosco por meio do seguinte e-mail: mateusmenezes1997@gmail.com
