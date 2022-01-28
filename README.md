@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/Mat3usCod3/Simple-analise/blob/main/Titanic%20img.jpg?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/Mat3usCod3/Titanic/blob/main/img.jpg?raw=true"/>
 </p>
 
 
