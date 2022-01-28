@@ -84,7 +84,7 @@ Instalação de algumas bibliotecas importantes:
 
 Exemplo de gráfico piechart utilizado no projeto:
 
-![teste](https://github.com/Mat3usCod3/Simple-analise/blob/main/grafico.png?raw=true)
+![teste](https://github.com/Mat3usCod3/Titanic/blob/main/g.png?raw=true)
 ## Feedback
 
 Estamos disponíveis para receber qualquer tipo de sugestão e Feedback, por favor entre em contato por meio do seguinte e-mail: mateusmenezes1997@gmail.com
