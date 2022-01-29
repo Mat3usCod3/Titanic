@@ -6,7 +6,7 @@
 
 # Análise exploratória Titanic
 
-Realizamos neste projeto, uma análise simples dos dados do acidente ocorrido em 12 de abril de 1912, com o navio Titanic. Nesta base de dados, existem informações extremamente relevantes com relação às vítimas e sobreviventes do acidente.
+Realizamos neste projeto, uma análise simples dos dados do acidente ocorrido em 12 de abril de 1912, com o navio Titanic.
 
 ## Autores
 
