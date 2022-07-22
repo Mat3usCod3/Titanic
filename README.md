@@ -1,8 +1,8 @@
-
+<!---
 <p align="center">
   <img src="https://github.com/Mat3usCod3/Titanic/blob/main/img.jpg?raw=true"/>
 </p>
-
+-->
 
 # Análise exploratória Titanic
 
